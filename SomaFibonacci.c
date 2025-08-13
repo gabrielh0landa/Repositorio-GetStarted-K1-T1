@@ -18,8 +18,10 @@ int main(){
      }
     
      printf("%d\n", cont);
-     printf(" Aqui é a soma dos números pares da sequencia de Fibonacci até 4.000.000: %d\n", soma);
     
    }
+   
+printf(" Aqui é a soma dos números pares da sequencia de Fibonacci até 4.000.000: %d\n", soma);
+
  
 }
