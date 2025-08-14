@@ -15,9 +15,7 @@ int main(){
      if(cont % 2 == 0){
        soma_total = soma_total + cont;
      }
-    
-     printf("%d\n", cont);
-    
+      
    }
    
 printf(" Aqui é a soma dos números pares da sequencia de Fibonacci até 4.000.000: %d\n", soma_total);
